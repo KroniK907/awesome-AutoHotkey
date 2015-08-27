@@ -17,7 +17,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Joystick](#joystick)
     - [Lists](#lists)
     - [Maths](#maths)
-    - [Plotting(Graphs, bars, charts and etc)](#libraries-plotting)
+    - [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
     - [Sockets](#sockets)
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
@@ -94,7 +94,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - Library facilitating high precision mathematics.
 * [Eval](http://www.autohotkey.com/board/topic/82823-) by fincs (discontinued) - Evaluate AutoHotkey expressions and mathematical statements dynamically.
 
-### <a name="libraries-plotting"></a>Plotting(Graphs, bars, charts and etc)
+### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 * [BarChart](http://www.autohotkey.com/board/topic/82959-barchart/) - Library for making bar charts.  Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
 * [Excel Charts](http://www.autohotkey.com/board/topic/88438-excel-charts/) - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
 * [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - Function library for graphically plotting real time data.
@@ -137,6 +137,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### Mouse
 * [EitherMouse](http://www.EitherMouse.com) - Multiple mice, individual settings, auto swap mouse buttons on second mouse. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=3648).
+* [Radial Menu](http://www.autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) -  Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum [link](http://www.autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
 
 ### Typing
 * [AutoComplete](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum [link](http://www.autohotkey.com/board/topic/60998-autocomplete/).
@@ -164,6 +165,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 
 ### Integrated Development Environment
 * [AHK Studio](http://ahkscript.org/boards/viewtopic.php?f=6&t=300) - SciLexer.dll based IDE for AutoHotkey.
+* [AutoHotFlow](https://www.dropbox.com/s/99cwiqpzlx4mtuz/AutoHotFlow%20Installation.exe?dl=1) - Draw your applications. Forum [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=6399). GitHub [link](https://github.com/bichlepa/AutoHotFlow).
 * [DRAKON Editor](http://ahkscript.org/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [Notepad++ for AutoHotkey](http://ahkscript.org/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
