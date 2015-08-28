@@ -20,6 +20,7 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
     - [Maths](#maths)
     - [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
     - [Sockets](#sockets)
+    - [System](#libraries-system)
     - [Text manipulation](#text-manipulation)
   - [Library Distributions](#library-distributions)
   - [Scripts](#scripts)
@@ -62,7 +63,9 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 * [LibCon](https://github.com/joedf/LibCon.ahk) - by joedf - AutoHotkey Library For Console Support. This library enables you to write console applications and interact with other console instances. Basically, this library facilitates anything that has to do with writing and interacting with consoles. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?t=17).
 
 ### <a name="libraries-data-format"></a>Data format
-* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum  [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=627).
+* [AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - by cocobelgica - JSON lib for AutoHotkey. Forum thread: [link](http://ahkscript.org/boards/viewtopic.php?f=6&t=627).
+* [ObjDump/ObjLoad](http://ahkscript.org/boards/viewtopic.php?f=6&t=3573) - by HotKeyIt - Serialize/deserialize object to/from variable/memory.
+* [XA](https://github.com/hi5/CL3/blob/master/lib/XA.ahk) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](http://www.autohotkey.com/board/topic/85461-ahk-l-saveload-arrays/).
 
 ### Database
 * [ahkDBA](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](http://www.autohotkey.com/board/topic/71179).
@@ -95,17 +98,20 @@ A curated list of awesome AutoHotkey libraries, library distributions, scripts, 
 *  [List manipulation functions](http://www.hars.us/SW/List.ahk) - by Laszlo - Function library to manipulate comma delimited lists. Forum thread: [link](http://www.autohotkey.com/board/topic/3020-list-manipulation-functions/).
 
 ### Maths
-* [Eval](http://www.autohotkey.com/board/topic/82823-)  - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. - (discontinued)
+* [Eval](http://www.autohotkey.com/board/topic/82823-) - by fincs - Evaluate AutoHotkey expressions and mathematical statements dynamically. - (discontinued)
 * [Scientific Maths](http://www.autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
 * [BarChart](http://www.autohotkey.com/board/topic/82959-barchart/) - by Learning One - Library for making bar charts.  Download [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
 * [Excel Charts](http://www.autohotkey.com/board/topic/88438-excel-charts/) - by Xx7 - Library for creating a graph in Excel, save the graph as an image and display it in a GUI.
-* [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - by Skan - Function library for graphically plotting real time data.
+* [XGraph](http://ahkscript.org/boards/viewtopic.php?t=3492) - by SKAN - Function library for graphically plotting real time data.
 
 ### Sockets
-* [AHKsock](http://www.autohotkey.com/board/topic/53827-) - by TheGood - Function based sockets library. Supports TCP.
+* [AHKsock](http://www.autohotkey.com/board/topic/53827) - by TheGood - Function based sockets library. Supports TCP.
 * [Socket Class (überarbeitet)](http://www.autohotkey.com/board/topic/94376-) - by Bentschi -  Class based sockets library. Supports TCP and UDP.
+
+### <a name="libraries-system"></a>System
+* [RunAsTask](http://ahkscript.org/boards/viewtopic.php?t=4334) - by SKAN - Auto-elevates script without UAC prompt.
 
 ### Text manipulation
 * [String Things](http://ahkscript.org/boards/viewtopic.php?f=6&t=53) - by tidbit - Stand-alone string manipulation functions.
